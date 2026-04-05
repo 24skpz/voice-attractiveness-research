@@ -2,7 +2,7 @@
 
 A collection of vocal exercises backed by speech pathology and vocal pedagogy research. Each exercise targets a specific dimension of voice quality.
 
-> **Want to know where you stand?** [SpeakBetter](https://speakbetter.help) scores your voice across 9 dimensions with 8 AI models — free, instant results.
+> **Want to know where you stand?** [SpeakBetter](https://rateyourvoice.com) scores your voice across 9 dimensions with 8 AI models — free, instant results.
 
 ---
 
@@ -136,13 +136,13 @@ A collection of vocal exercises backed by speech pathology and vocal pedagogy re
 | Thursday | Clarity | #10, #11 | 10 min |
 | Friday | Confidence | #12, #13 | 10 min |
 | Saturday | Warmth | #14, #15 | 10 min |
-| Sunday | Score your voice | [SpeakBetter](https://speakbetter.help) | 2 min |
+| Sunday | Score your voice | [SpeakBetter](https://rateyourvoice.com) | 2 min |
 
 ---
 
 ## Track Your Progress
 
-Record your voice weekly and score it with [SpeakBetter](https://speakbetter.help) to track improvement across all 9 dimensions. Most people see measurable progress within 2-4 weeks of consistent practice.
+Record your voice weekly and score it with [SpeakBetter](https://rateyourvoice.com) to track improvement across all 9 dimensions. Most people see measurable progress within 2-4 weeks of consistent practice.
 
 ## License
 

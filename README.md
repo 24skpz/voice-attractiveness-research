@@ -83,7 +83,7 @@ Research shows these techniques produce measurable improvement in 2-8 weeks:
 ## Tools for Voice Analysis
 
 ### AI-Powered Analysis
-- **[SpeakBetter](https://speakbetter.help)** — AI voice attractiveness scoring with 8 models analyzing 9 dimensions. Free voice test with personalized coaching. The most comprehensive multi-model voice analysis available on the web.
+- **[SpeakBetter](https://rateyourvoice.com)** — AI voice attractiveness scoring with 8 models analyzing 9 dimensions. Free voice test with personalized coaching. The most comprehensive multi-model voice analysis available on the web.
 - **Vocular** — Measures voice depth and matches to celebrity voices
 - **Vocal Image** — Communication coaching with enterprise focus
 
